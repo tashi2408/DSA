@@ -20,6 +20,8 @@ What is an inversion of an array? Definition: for all i & j < size of array, if 
 - `count` gives the number of inversion for the smaller right element.
 - We add all the `count` to get final answer.
 
+![image](../../Images/coding.png)
+
 #### Code
 
 ```
