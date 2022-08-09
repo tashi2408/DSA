@@ -1,6 +1,6 @@
-## 53. Maximum Subarray
+## Count Inversions
 
-##### Medium | C++ Code Solution Explanation | Array | Kadane
+##### Medium | C++ Code Solution Explanation | Array
 
 [Link to the Problem](https://www.codingninjas.com/codestudio/problems/count-inversions_615?leftPanelTab=0)
 
