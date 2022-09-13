@@ -8,6 +8,19 @@
 
 Given an array A of N integers, find any 3 elements in it such that A[i] < A[j] < A[k] and i < j < k.
 
+Input: arr[] = {12, 11, 10, 5, 6, 2, 30}
+Output: 5, 6, 30
+Explanation: As 5 < 6 < 30, and they
+appear in the same sequence in the array
+
+Input: arr[] = {1, 2, 3, 4}
+Output: 1, 2, 3 OR 1, 2, 4 OR 2, 3, 4
+Explanation: As the array is sorted, for every i, j, k,
+where i < j < k, arr[i] < arr[j] < arr[k]
+
+Input: arr[] = {4, 3, 2, 1}
+Output: No such triplet exists.
+
 #### Solution
 
 - For every element we need to find a element less than and greater than.
