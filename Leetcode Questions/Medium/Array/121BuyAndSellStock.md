@@ -2,7 +2,7 @@
 
 ##### Medium | C++ Code Solution Explanation | Array
 
-[Link to the Problem](https://leetcode.com/problems/powx-n/)
+[Link to the Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 #### Problem
 
